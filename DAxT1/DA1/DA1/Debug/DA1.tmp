@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Andy\Documents\DAx\DAxT1\DA1\DA1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Andy\Documents\DAx\DAxT1\DA1\DA1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Andy\Documents\DAx\DAxT1\DA1\DA1\Debug\DA1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA1.map</FILE>
+  <FILE>DA1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <load_values><FILE>C:\Users\Andy\Documents\DAx\DAxT1\DA1\DA1\main.asm</FILE><LINE>29</LINE></load_values>
+  <repop><FILE>C:\Users\Andy\Documents\DAx\DAxT1\DA1\DA1\main.asm</FILE><LINE>45</LINE></repop>
+  <s_check><FILE>C:\Users\Andy\Documents\DAx\DAxT1\DA1\DA1\main.asm</FILE><LINE>54</LINE></s_check>
+  <returnto><FILE>C:\Users\Andy\Documents\DAx\DAxT1\DA1\DA1\main.asm</FILE><LINE>50</LINE></returnto>
+  <sevens_addition><FILE>C:\Users\Andy\Documents\DAx\DAxT1\DA1\DA1\main.asm</FILE><LINE>72</LINE></sevens_addition>
+  <div_seven_yes><FILE>C:\Users\Andy\Documents\DAx\DAxT1\DA1\DA1\main.asm</FILE><LINE>64</LINE></div_seven_yes>
+  <t_check><FILE>C:\Users\Andy\Documents\DAx\DAxT1\DA1\DA1\main.asm</FILE><LINE>59</LINE></t_check>
+  <div_three_yes><FILE>C:\Users\Andy\Documents\DAx\DAxT1\DA1\DA1\main.asm</FILE><LINE>68</LINE></div_three_yes>
+  <threes_addition><FILE>C:\Users\Andy\Documents\DAx\DAxT1\DA1\DA1\main.asm</FILE><LINE>79</LINE></threes_addition>
+  <end><FILE>C:\Users\Andy\Documents\DAx\DAxT1\DA1\DA1\main.asm</FILE><LINE>84</LINE></end>
+ </LABELS>
+</ASSEMBLER_INFO>
