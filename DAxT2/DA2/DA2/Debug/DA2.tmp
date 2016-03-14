@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Andy\Documents\DAx\DAxT2\DA2\DA2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Andy\Documents\DAx\DAxT2\DA2\DA2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Andy\Documents\DAx\DAxT2\DA2\DA2\Debug\DA2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2.map</FILE>
+  <FILE>DA2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Andy\Documents\DAx\DAxT2\DA2\DA2\main.asm</FILE><LINE>16</LINE></RESET>
+  <INTSUB><FILE>C:\Users\Andy\Documents\DAx\DAxT2\DA2\DA2\main.asm</FILE><LINE>39</LINE></INTSUB>
+  <MAIN><FILE>C:\Users\Andy\Documents\DAx\DAxT2\DA2\DA2\main.asm</FILE><LINE>36</LINE></MAIN>
+  <DELAY><FILE>C:\Users\Andy\Documents\DAx\DAxT2\DA2\DA2\main.asm</FILE><LINE>91</LINE></DELAY>
+  <HIGHEDGE><FILE>C:\Users\Andy\Documents\DAx\DAxT2\DA2\DA2\main.asm</FILE><LINE>53</LINE></HIGHEDGE>
+  <HEDGEDONE><FILE>C:\Users\Andy\Documents\DAx\DAxT2\DA2\DA2\main.asm</FILE><LINE>46</LINE></HEDGEDONE>
+  <CFIVE><FILE>C:\Users\Andy\Documents\DAx\DAxT2\DA2\DA2\main.asm</FILE><LINE>69</LINE></CFIVE>
+  <HIGHEDGERET1><FILE>C:\Users\Andy\Documents\DAx\DAxT2\DA2\DA2\main.asm</FILE><LINE>61</LINE></HIGHEDGERET1>
+  <CTEN><FILE>C:\Users\Andy\Documents\DAx\DAxT2\DA2\DA2\main.asm</FILE><LINE>79</LINE></CTEN>
+  <HIGHEDGERET2><FILE>C:\Users\Andy\Documents\DAx\DAxT2\DA2\DA2\main.asm</FILE><LINE>65</LINE></HIGHEDGERET2>
+  <C5SKIP1><FILE>C:\Users\Andy\Documents\DAx\DAxT2\DA2\DA2\main.asm</FILE><LINE>75</LINE></C5SKIP1>
+  <C5SKIP2><FILE>C:\Users\Andy\Documents\DAx\DAxT2\DA2\DA2\main.asm</FILE><LINE>76</LINE></C5SKIP2>
+  <C10SKIP1><FILE>C:\Users\Andy\Documents\DAx\DAxT2\DA2\DA2\main.asm</FILE><LINE>85</LINE></C10SKIP1>
+  <C10SKIP2><FILE>C:\Users\Andy\Documents\DAx\DAxT2\DA2\DA2\main.asm</FILE><LINE>86</LINE></C10SKIP2>
+  <WAIT><FILE>C:\Users\Andy\Documents\DAx\DAxT2\DA2\DA2\main.asm</FILE><LINE>101</LINE></WAIT>
+ </LABELS>
+</ASSEMBLER_INFO>
